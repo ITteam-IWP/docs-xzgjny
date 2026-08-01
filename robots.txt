@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-b7kt5f.radarsatu88.sbs/sitemap.xml
